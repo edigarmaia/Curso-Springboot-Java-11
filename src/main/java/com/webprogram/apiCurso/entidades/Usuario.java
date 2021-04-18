@@ -1,4 +1,4 @@
-package com.webprogram.apiCurso.entities;
+package com.webprogram.apiCurso.entidades;
 
 import java.io.Serializable;
 
